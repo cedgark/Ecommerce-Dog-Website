@@ -1,7 +1,7 @@
 # Ecommerce Dog Website
  An Ecommerce website about dogs. The website allows the customers to browse through the available products, view their price and all other relevant information, allow the customers to add the goods to the shopping basket, and finally view the basket (display all selected items and their total price) and allow the customer to enter payment details.
 
-[![Screenshot 2023-08-14 at 7 30 32 PM](https://github.com/cedgark/Ecommerce-Dog-Website/assets/114522674/ddc1ca85-37d1-4b12-bbc6-91a0330bb53e)](https://www.youtube.com/watch?v=UbE5lZqD2mc)
+[![Screenshot 2023-08-14 at 7 30 32 PM](https://github.com/cedgark/Ecommerce-Dog-Website/assets/114522674/ddc1ca85-37d1-4b12-bbc6-91a0330bb53e)(https://www.youtube.com/watch?v=UbE5lZqD2mc)]
 
 **Main Features**
 
