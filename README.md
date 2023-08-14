@@ -1,7 +1,7 @@
 # Ecommerce Dog Website
  An Ecommerce website about dogs. The website allows the customers to browse through the available products, view their price and all other relevant information, allow the customers to add the goods to the shopping basket, and finally view the basket (display all selected items and their total price) and allow the customer to enter payment details.
 
-Main Features
+**Main Features**
 
 • Shopping Basket
 
@@ -31,13 +31,13 @@ Main Features
 
 • Admin Panel
 
-Main Software Tools And Technologies
+**Main Software Tools And Technologies**
 
 
  • Front-end website construction using HTML and CSS
 
  
- • Server side development (e.g. Linux or Windows) using scripting languages (e.g. Python) and frameworks (e.g. Flask).
+ • Server-side development (e.g. Linux or Windows) using scripting languages (e.g. Python) and frameworks (e.g. Flask).
 
  
  • A MySQL database that maintains the content of the shop.
