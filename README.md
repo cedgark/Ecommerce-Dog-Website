@@ -34,9 +34,15 @@ Main Features
 Main Software Tools And Technologies
 
  • Front-end website construction using HTML and CSS
+ 
  • Server side development (e.g. Linux or Windows) using scripting languages (e.g. Python) and frameworks (e.g. Flask).
+ 
  • A MySQL database that maintains the content of the shop.
+ 
  • Online verification and analytical tools for debugging.
+ 
  • Navigational menus with links to the different parts of the website (e.g. “view basket”, “front page” etc.)
+ 
  • Using version control software to manage and track individual work.
+ 
  • Use of libraries (e.g. Bootstrap)
