@@ -4,18 +4,31 @@
 Main Features
 
 • Shopping Basket
+
 • Wishlist
+
 • Checkout (Payment form)
+
 • Customer Accounts
+
 • Gallery of Products
+
 • Product Sorts (Name and price)
+
 • Help And Error Messages (forms)
+
 • Reviews
+
 • Comments
+
 • Product Search
+
 • A Facility For Shipping Labels
+
 • A Facility For E-invoices
+
 • Encryption And Security (Hash)
+
 • Admin Panel
 
 Main Software Tools And Technologies
