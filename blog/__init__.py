@@ -5,10 +5,9 @@ from flask_qrcode import QRcode
 
 app = Flask(__name__)
 QRcode(app)
-app.config['SECRET_KEY'] = '76655bf80f7900ae3929c8696951a90c6378b658b9258c2d'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:Lelouch123@localhost:3306/dog'
-#mysql+pymysql://chiwuikea-o:Lelouch123@localhost:3306/dog
-#mysql+pymysql://d21012668:Belle12345@csmysql.cs.cf.ac.uk:3306/c21012668_cm1102
+app.config['SECRET_KEY'] = 'insert_key'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:password@localhost:3306/database'
+
 db = SQLAlchemy(app)
 
 login_manager = LoginManager()
