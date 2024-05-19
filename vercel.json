@@ -3,7 +3,7 @@
    "routes": [
       {
         "src":"/(.*)",
-        "dest":"blogs/__init__.py"
+        "dest":"blog/__init__.py"
         }
       ]
 }
