@@ -26,5 +26,4 @@ admin.add_view(AdminView(Product, db.session))
 admin.add_view(AdminView(Checkout, db.session))
 
 
-application = app
-application.run(debug=True)
+
