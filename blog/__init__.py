@@ -25,5 +25,11 @@ admin.add_view(AdminView(Comment, db.session))
 admin.add_view(AdminView(Product, db.session))
 admin.add_view(AdminView(Checkout, db.session))
 
+if __name__ == '__main__':
+  application = app
+  application.run(debug=True)
+
+
+
 
 
