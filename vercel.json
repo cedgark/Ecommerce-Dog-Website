@@ -1,5 +1,5 @@
 { "builds": [
-  { "src":"blog/__init__.py", "use":"@vercel/python" } ],
+  { "src":"wsgi.py", "use":"@vercel/python" } ],
    "routes": [
       {
         "src":"/(.*)",
